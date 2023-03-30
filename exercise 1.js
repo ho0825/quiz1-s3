@@ -1,3 +1,3 @@
 console.log("hello world")
-let messages = "benr"
-console.log(messages)
+let messages = 123
+console.log(messages, typeof messages)
